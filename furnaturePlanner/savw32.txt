@@ -1,0 +1,8 @@
+table 271 512
+table 397 579
+table 397 502
+table 366 295
+table 107 110
+bed 75 363
+bed 157 325
+bed 120 442
